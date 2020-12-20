@@ -32,7 +32,7 @@ import ru.terrakok.cicerone.Router
 import ru.terrakok.cicerone.commands.Command
 import ru.terrakok.cicerone.commands.Forward
 
-class UpcomingFragment : Fragment(), UpcomingContract.View, BackButtonListener, RouterProvider {
+    class UpcomingFragment : Fragment(), UpcomingContract.View, BackButtonListener, RouterProvider {
 
 
     // initialize Room db
